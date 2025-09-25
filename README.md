@@ -2,7 +2,7 @@
 
 Full Stack Developer | C# .NET | Java | React | Angular
 
-📍 İstanbul, Türkiye
+📍 Istanbul, Turkey
 
 ---
 
@@ -11,6 +11,20 @@ Full Stack Developer | C# .NET | Java | React | Angular
 ![Sevilay's GitHub stats](https://github-readme-stats.vercel.app/api?username=SevilayOnogul&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SevilayOnogul&layout=compact&theme=radical)
+
+---
+
+## Technologies & Tools
+
+[![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
+[![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dot-net&logoColor=white)](https://dotnet.microsoft.com/)
+[![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)](https://www.java.com/)
+[![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)](https://reactjs.org/)
+[![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)](https://angular.io/)
+[![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring&logoColor=white)](https://spring.io/projects/spring-boot)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/)
+[![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)](https://redis.io/)
 
 ---
 
