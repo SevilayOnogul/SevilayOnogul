@@ -12,6 +12,8 @@ Full Stack Developer | C# .NET | Java | React | Angular
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SevilayOnogul&layout=compact&theme=radical)
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SevilayOnogul&theme=radical)
+
 ---
 
 ## Technologies & Tools
