@@ -8,9 +8,9 @@ Full Stack Developer | C# .NET | Java | React | Angular
 
 ## GitHub Stats
 
-![Sevilay's GitHub stats](https://github-readme-stats.vercel.app/api?username=SevilayOnogul&show_icons=true&theme=radical)
+![Sevilay's GitHub stats](https://github-readme-stats-godkingjay.vercel.app/api?username=SevilayOnogul&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SevilayOnogul&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats-godkingjay.vercel.app/api/top-langs/?username=SevilayOnogul&layout=compact&theme=radical)
 
 
 ---
