@@ -4,7 +4,7 @@ Full Stack Developer | C# .NET | Java | React | Angular
 
 📍 Istanbul, Turkey
 
----
+----
 
 ## GitHub Stats
 
@@ -12,7 +12,7 @@ Full Stack Developer | C# .NET | Java | React | Angular
 
 ![Top Languages](https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=SevilayOnogul&layout=compact&theme=radical&exclude_langs=HTML,CSS,JavaScript)
 
----
+----
 
 ## Technologies & Tools
 
@@ -26,7 +26,7 @@ Full Stack Developer | C# .NET | Java | React | Angular
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/)
 [![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)](https://redis.io/)
 
----
+----
 
 ## Connect with me
 
