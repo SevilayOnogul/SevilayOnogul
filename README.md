@@ -12,12 +12,6 @@ Full Stack Developer | C# .NET | Java | React | Angular
 
 ![Sevilay's GitHub stats](https://github-readme-stats-ten-gilt.vercel.app/api?username=SevilayOnogul&show_icons=true&theme=radical)
 
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SevilayOnogul&layout=compact&theme=radical&exclude_langs=HTML,CSS,JavaScript&title_prefix=Backend%20Focus&card_title=Backend%20Languages" alt="Backend Diller" />
-
-  <img align="center" src="https://stats.shunkakinoki.com/top_langs?user=SevilayOnogul&layout=compact&hide=Csharp,Java,SQL,Python&title_prefix=Frontend%20&card_title=Frontend%20Skills" alt="Frontend Diller" />
-</p>
-
 ----
 
 ## Technologies & Tools
