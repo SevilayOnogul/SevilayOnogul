@@ -1,17 +1,21 @@
 # Sevilay Önoğul
 
-Full Stack Developer | .NET | Microservices | AI Proje Deneyimi
-
+Full Stack Developer (.NET & React)
 📍 İstanbul, Türkiye
 
 ---
 
-## 🚀 Hakkımda
-.NET 8 ile **ölçeklenebilir ve sürdürülebilir backend uygulamaları** geliştirmeye odaklanan bir Full Stack Developer’ım.  
-Modern backend mimarileri, performanslı API tasarımı ve mikroservis yaklaşımları üzerine çalışıyorum.
+🚀 Hakkımda
 
-Yapay zekâ alanında **bir proje geliştirme deneyimim bulunmakta** olup, bu süreçte AI servisleri ile entegrasyonlar gerçekleştirdim.  
-Şu anda ana odağım **mikroservis mimarisi**, **API Gateway**, **MongoDB** ve **Docker** kullanarak gerçek dünya senaryolarına uygun backend sistemleri kurmak.
+Backend temeli güçlü, modern web uygulamaları geliştiren bir Full Stack Developer’ım.
+
+.NET 8 ekosisteminde ölçeklenebilir ve sürdürülebilir backend sistemleri geliştiriyor; React ile kullanıcı odaklı arayüzler tasarlıyorum. Mikroservis mimarisi, temiz kod prensipleri ve katmanlı yapı (Onion & N-Tier) yaklaşımını projelerimde aktif olarak uyguluyorum.
+
+Performanslı API tasarımı, CQRS yaklaşımı, SQL & NoSQL veritabanı çözümleri ve container tabanlı dağıtım süreçleri üzerine çalışıyorum.
+
+Ayrıca yapay zekâ servislerini (LLM entegrasyonları, ML.NET) projelere entegre ederek AI destekli özellikler geliştirme deneyimine sahibim.
+
+Hedefim; uçtan uca (backend + frontend) mimarisi sağlam, gerçek dünya problemlerine çözüm üreten sistemler geliştirmektir.
 
 ---
 
@@ -27,17 +31,18 @@ Yapay zekâ alanında **bir proje geliştirme deneyimim bulunmakta** olup, bu s�
 - ASP.NET Core Web API  
 - Mikroservis Mimarisi  
 - API Gateway (YARP / Ocelot)  
-- MongoDB  
-- Docker  
+- MongoDB / SQL Server  
 - Redis  
+- Docker  
 
 ### Yapay Zekâ
-- Yapay Zekâ Destekli Uygulama Geliştirme (Proje Deneyimi)
-- OpenAI ve benzeri servislerle entegrasyon
+- OpenAI API entegrasyonu
+- LLM tabanlı servis geliştirme
+- ML.NET ile temel makine öğrenmesi uygulamaları
 
 ### Frontend
-- React  
-- Angular  
+- React (Hooks, API Integration, Component-based Architecture)
+- Angular
 
 ---
 
