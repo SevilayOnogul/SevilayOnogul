@@ -1,6 +1,7 @@
 # Sevilay Önoğul
 
 Full Stack Developer (.NET & React)
+
 📍 İstanbul, Türkiye
 
 ---
