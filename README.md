@@ -1,4 +1,3 @@
-```md
 # Sevilay Önoğul
 
 Full Stack Developer (.NET & React)
@@ -56,4 +55,3 @@ Hedefim; performanslı, test edilebilir ve gerçek dünya problemlerine çözüm
 ## 🔗 Bana Ulaşın
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sevilay-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/sevilay-önoğul-484b89295/)
 [![GitHub](https://img.shields.io/badge/GitHub-Sevilay-black?style=flat-square&logo=github)](https://github.com/SevilayOnogul)
-```
