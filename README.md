@@ -20,7 +20,6 @@ Hedefim; performanslı, test edilebilir ve gerçek dünya problemlerine çözüm
 
 ## 📊 GitHub İstatistikleri
 ![Sevilay's GitHub stats](https://github-readme-stats-ten-gilt.vercel.app/api?username=SevilayOnogul&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=SevilayOnogul&layout=compact&theme=radical)
 
 ---
 
