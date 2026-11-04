@@ -1,6 +1,6 @@
 # Sevilay Önoğul
 
-Full Stack Developer (.NET & React)
+**Backend & Full Stack Software Developer (.NET)**
 
 📍 İstanbul, Türkiye
 
@@ -8,13 +8,11 @@ Full Stack Developer (.NET & React)
 
 ## 🚀 Hakkımda
 
-Backend temeli güçlü, modern mimari ve yapay zeka entegrasyonlarına odaklanan bir **Full Stack Developer**’ım. 
+Backend temeli güçlü, kurumsal mimarilere ve güvenli sistem tasarımına odaklanan bir **Software Developer**’ım. 
 
-.NET 8 ekosisteminde ölçeklenebilir sistemler geliştiriyor, **Microservices** ve **Vertical Slice Architecture** gibi modern yaklaşımları projelerimde aktif olarak uyguluyorum. 
+Modern .NET ekosisteminde ölçeklenebilir, test edilebilir ve sürdürülebilir sistemler geliştiriyor; **Clean Architecture, Microservices ve CQRS** gibi endüstri standardı yaklaşımları projelerimde aktif olarak uyguluyorum. 
 
-Yapay zeka servislerini (LLM entegrasyonları ve ML.NET) uygulamalarımın bir parçası olarak entegre ederek, daha akıllı ve veri odaklı sistemler geliştiriyorum.
-
-Hedefim; performanslı, test edilebilir ve gerçek dünya problemlerine çözüm üreten uçtan uca sistemler geliştirmektir.
+Gerçek dünya problemlerine çözüm üreten, performanslı ve güvenli altyapılar inşa etmeyi hedefliyorum.
 
 ---
 
@@ -26,28 +24,24 @@ Hedefim; performanslı, test edilebilir ve gerçek dünya problemlerine çözüm
 ## 🛠 Teknolojiler & Araçlar
 
 ### 🔹 Backend & Mimari
-- **Diller & Frameworks:** C# / .NET 8, ASP.NET Core Web API, Entity Framework Core  
-- **Mimari:** Microservices, Vertical Slice Architecture, CQRS, Onion Architecture  
-- **İletişim:** gRPC, RabbitMQ, MassTransit, SignalR  
-- **Gateway:** API Gateway (YARP / Ocelot)  
-- **Veritabanı & Caching:** PostgreSQL, SQL Server, Redis  
-- **DevOps:** Docker, Git, Unit Testing (xUnit, Moq)  
-
-### 🔹 Yapay Zekâ & ML
-- **LLM Entegrasyonu:** OpenAI API  
-- **Machine Learning:** ML.NET  
+- **Diller & Frameworks:** C#, .NET 8 / .NET 10, ASP.NET Core Web API, Entity Framework Core  
+- **Mimari:** Clean Architecture, Microservices, CQRS (MediatR), Onion Architecture  
+- **Asenkron İletişim & Mesajlaşma:** RabbitMQ, MassTransit, gRPC, SignalR  
+- **Veritabanı & Caching:** MS SQL Server, PostgreSQL, Redis, Marten (Document DB)  
+- **Test & Kalite:** Unit Testing (xUnit, Moq), FluentValidation  
+- **Sistem & Güvenlik:** Windows Services, Active Directory Eventing (`System.Diagnostics.Eventing.Reader`), Serilog  
+- **DevOps & Araçlar:** Docker, Git, Linux (Ubuntu / Terminal)  
 
 ### 🔹 Frontend
-- **Frameworks:** React (Hooks, Context API), Angular  
-- **Tasarım:** Bootstrap 5, Tailwind CSS  
+- **Frameworks & State:** React, TypeScript, Redux Toolkit  
+- **Tasarım & UI:** Material UI, Tailwind CSS, Bootstrap  
 
 ---
 
 ## 📈 Şu Anda Üzerinde Çalışıyorum
-- 🏗️ .NET 8 ile Microservices Architecture  
-- ⚡ Redis ve PostgreSQL ile performans optimizasyonu  
-- 🐳 Docker ile container tabanlı sistemler  
-- 🧪 Unit Test (xUnit, Moq)  
+- 🏗️ .NET 10 ve Clean Architecture ile **ADAuditMonitor** (Active Directory Güvenlik Denetim ve İzleme Sistemi)  
+- 🐧 Linux sistem yönetimi ve terminal otomasyonları (Ubuntu / VirtualBox)  
+- 🧪 Kapsamlı birim testleri (xUnit, Moq) ve Clean Code prensipleri  
 
 ---
 
