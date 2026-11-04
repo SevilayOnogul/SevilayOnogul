@@ -29,7 +29,7 @@ Gerçek dünya problemlerine çözüm üreten, performanslı ve güvenli altyap�
 - **Asenkron İletişim & Mesajlaşma:** RabbitMQ, MassTransit, gRPC, SignalR  
 - **Veritabanı & Caching:** MS SQL Server, PostgreSQL, Redis, Marten (Document DB)  
 - **Test & Kalite:** Unit Testing (xUnit, Moq), FluentValidation  
-- **Sistem & Güvenlik:** Windows Services, Active Directory Eventing (`System.Diagnostics.Eventing.Reader`), Serilog  
+- **Sistem & Güvenlik:** Windows Services, Serilog  
 - **DevOps & Araçlar:** Docker, Git, Linux (Ubuntu / Terminal)  
 
 ### 🔹 Frontend
@@ -39,7 +39,7 @@ Gerçek dünya problemlerine çözüm üreten, performanslı ve güvenli altyap�
 ---
 
 ## 📈 Şu Anda Üzerinde Çalışıyorum
-- 🏗️ .NET 10 ve Clean Architecture ile **ADAuditMonitor** (Active Directory Güvenlik Denetim ve İzleme Sistemi)  
+- 🏗️ Modern .NET ekosistemi ve Clean Architecture ile kurumsal backend servisleri geliştirmek  
 - 🐧 Linux sistem yönetimi ve terminal otomasyonları (Ubuntu / VirtualBox)  
 - 🧪 Kapsamlı birim testleri (xUnit, Moq) ve Clean Code prensipleri  
 
